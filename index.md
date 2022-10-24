@@ -3,7 +3,7 @@ layout: cv
 title: Angel Garcimartín C.V.
 ---
 # Angel Garcimartín Montero
-Physicist, Mathematician, Cambridge professor.
+Physicist, Mathematician, 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
