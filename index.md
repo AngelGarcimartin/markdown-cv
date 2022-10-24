@@ -10,7 +10,17 @@ Physicist, Mathematician,
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
+### Personal data
 
+Departamento de Física y Matemática Aplicada, Facultad de Ciencias, Universidad de Navarra, 31080 Pamplona, Spain
+
+Telephone: +34 948 425600 ext. 806385 / e-mail: angel@unav.es / https://sites.google.com/unav.es/angelgarcimartin/
+
+ORCID: 0000-0001-7156-4661 / ResearcherID:  A-3035-2009 
+
+Nationality: Spanish; Identity Card Number: 25425067Q; Birth date: 24/10/1963
+
+### Education
 ## Currently
 
 Professor at the University of Navarra, Spain
