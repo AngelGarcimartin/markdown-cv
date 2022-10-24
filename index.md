@@ -13,7 +13,7 @@ Physicist, Mathematician,
 
 ## Currently
 
-Standing on the shoulders of giants
+Professor at the University of Navarra
 
 ### Specialized in
 
