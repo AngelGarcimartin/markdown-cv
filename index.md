@@ -13,7 +13,7 @@ Physicist, Mathematician,
 
 ## Currently
 
-Professor at the University of Navarra
+Professor at the University of Navarra, Spain
 
 ### Specialized in
 
