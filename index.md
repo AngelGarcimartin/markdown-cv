@@ -45,7 +45,7 @@ __Trinity College, Cambridge__
 ## Awards
 
 `2012`
-President, *Royal Society*, London, UK
+A ver 
 
 Associate, *French Academy of Science*, Paris, France
 
